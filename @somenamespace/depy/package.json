@@ -1,0 +1,15 @@
+{
+  "name": "@somenamespace/depy",
+  "version": "1.0.0",
+  "private": true,
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@somenamespace/depx": "1.0.0"
+  }
+}

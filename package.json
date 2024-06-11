@@ -1,0 +1,15 @@
+{
+  "name": "sass-embedded-bug-noloaders",
+  "version": "1.0.0",
+  "private": "true",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "author": "https://github.com/debugwand",
+  "license": "MIT",
+  "description": "A proof of concept to demonstrate SASS alone does not resolve nested node_modules folders https://github.com/debugwand/sass-embedded-bug",
+  "dependencies": {
+    "sass": "^1.77.4",
+    "sass-embedded": "^1.77.2"
+  }
+}
